@@ -1,0 +1,56 @@
+#bmwPic{
+    height:150px;
+    opacity: 0.3;
+        
+}
+#bmwDec{
+    display:inline-block;
+    width:1000px;
+    height: 200px;
+    
+    text-align: justify;
+    overflow:auto;
+}
+
+#mazdaPic{
+    height:150px;
+  opacity: 0.5;
+}
+#mazdaDec{
+    display:inline-block;
+    width: 900px;
+    height: 200px;
+    text-align: justify;
+    overflow: auto;
+
+}
+
+#volvoPic{
+    height: 150px;
+    opacity: 0.8;
+    visibility: hidden;
+    
+}
+
+#volvoDec{
+    display: inline-block;
+    width: 1000px;
+    height: 200px;
+    text-align: justify;
+    overflow: auto;
+}
+
+#mazdaId{
+    text-align: right;
+    width: 1000px;
+}
+
+#bmwHeading{
+    background-color: blue;
+    width:150px;
+    text-align:center;
+    
+    border: 5px black;
+    border-radius: 20rem;
+    
+}
